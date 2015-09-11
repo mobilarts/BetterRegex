@@ -1,0 +1,6 @@
+framework module Pods_BetterRegex_Tests {
+  umbrella header "Pods-BetterRegex_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

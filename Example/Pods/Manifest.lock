@@ -1,0 +1,14 @@
+PODS:
+  - BetterRegex (0.1.0)
+
+DEPENDENCIES:
+  - BetterRegex (from `../`)
+
+EXTERNAL SOURCES:
+  BetterRegex:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BetterRegex: 0f96977a45ac75bdbfc9ab6f41af7d16febb4e2b
+
+COCOAPODS: 0.38.2
