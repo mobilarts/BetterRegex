@@ -1,6 +1,6 @@
 # BetterRegex
 
-[![CI Status](http://img.shields.io/travis/63reasons/BetterRegex.svg?style=flat)](https://travis-ci.org/Mobilarts/BetterRegex)
+[![CI Status](http://img.shields.io/travis/mobilarts/BetterRegex.svg?style=flat)](https://travis-ci.org/Mobilarts/BetterRegex)
 [![Version](https://img.shields.io/cocoapods/v/BetterRegex.svg?style=flat)](http://cocoapods.org/pods/BetterRegex)
 [![License](https://img.shields.io/cocoapods/l/BetterRegex.svg?style=flat)](http://cocoapods.org/pods/BetterRegex)
 [![Platform](https://img.shields.io/cocoapods/p/BetterRegex.svg?style=flat)](http://cocoapods.org/pods/BetterRegex)

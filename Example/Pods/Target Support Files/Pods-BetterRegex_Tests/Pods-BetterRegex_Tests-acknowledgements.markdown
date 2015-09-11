@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## BetterRegex
 
-Copyright (c) 2015 63reasons <louis-eric@63reasons.com>
+Copyright (c) 2015 Mobilarts <louis-eric @ mobilarts -- dot -- com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

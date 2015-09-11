@@ -218,7 +218,7 @@ class BetterRegex: BaseRegex {
     
     override init (pattern: String, options: NSRegularExpressionOptions = nil)
     {
-        let (newPattern, groups) = Regex.analyzeGroups(pattern)
+        let (newPattern, groups) = BetterRegex.analyzeGroups(pattern)
         super.init(pattern: newPattern, options: options)
         self.groups = groups
     }
