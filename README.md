@@ -31,7 +31,7 @@ let matches: RegexResults = test.extractMatches("welcome all", options: regexOpt
 
 ## Requirements
 
-A reasonably recent version of XCode
+A reasonably recent version of Xcode
 
 ## Installation
 
